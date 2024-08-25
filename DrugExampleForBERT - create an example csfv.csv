@@ -1,0 +1,9 @@
+Symptom,Confidence,Drug
+Drowsiness,0.8,Advil
+Headache,0.9,Tylenol
+Nausea,0.7,Pepto-Bismol
+Fever,0.6,Ibuprofen
+Sore Throat,0.5,Nyquil
+Runny Nose,0.4,Sudafed
+Cough,0.3,Robitussin
+Sneezing,0.2,Claritin
